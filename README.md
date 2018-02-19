@@ -1,5 +1,19 @@
+<!--lint disable list-item-indent-->
+
 # BreadBoardBox
 a 3D / 2D Lasercutter friendly Box-Design for two Breadboards
+
+
+## Breadboard measurements:
+- Power-IC-Power
+    54mm
+- Power-IC-Power-IC-Power
+    99,5mm
+- Power-IC-Power-IC-Power-IC-Power
+    144mm
+
+165mm length
+10mm height
 
 
 
