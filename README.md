@@ -3,6 +3,9 @@
 # BreadBoardBox
 a 3D / 2D Lasercutter friendly Box-Design for two Breadboards
 
+![3d preview](BreadBoardBox.png)
+full step file: [BreadBoardBox.step](BreadBoardBox.step)
+
 
 ## Breadboard measurements:
 - Power-IC-Power
