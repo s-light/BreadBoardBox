@@ -11,11 +11,11 @@
    height="210mm"
    viewBox="0 0 2970 2100"
    version="1.2"
-   id="svg228"
+   id="svg260"
    sodipodi:docname="LeftIn.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
-     id="metadata232">
+     id="metadata264">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -36,15 +36,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     id="namedview230"
+     id="namedview262"
      showgrid="false"
-     inkscape:zoom="1.0230556"
-     inkscape:cx="561.25984"
-     inkscape:cy="396.85039"
+     inkscape:zoom="1.1687991"
+     inkscape:cx="505.69356"
+     inkscape:cy="396.90225"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg228" />
+     inkscape:current-layer="svg260" />
   <title
      id="title2">FreeCAD SVG Export</title>
   <desc
@@ -52,7 +52,7 @@
   <defs
      id="defs6" />
   <path
-     d="m 2315,1055 v 155 h -230 v 80 h -400 v -80 h -400 v 80 H 885 v -80 H 655 v -155 h 80 V 935 H 655 V 810 h 1660 v 125 h -80 v 120 h 80"
+     d="m 2315,1055 v 155 h -230 v 80 h -400 v -80 h -400 v 80 H 885 v -80 H 655 v -155 h 80 V 935 H 655 V 810 h 1440 v 40 h 180 v -40 h 40 v 125 h -80 v 120 h 80"
      id="path50"
      inkscape:connector-curvature="0"
      style="font-style:normal;font-weight:400;font-size:medium;font-family:'Sans Serif';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
