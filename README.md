@@ -16,6 +16,15 @@ with this its possible that all screw-heads are hidden in the thickness of the o
 the 3d model is designed in FreeCAD.  
 the file is partly 'automated'
 
+
+all parts needed to be cut are in the export folder.  
+for some of the parts there are RDWorks plf files..
+
+after this first do a try fit puzzle. so you know that all is fine..
+then you can glue them together.
+and finaly sand the box and eventually finish with oil or similar..
+
+
 ## Breadboard measurements:
 PR = Power-Rail  
 IC = section for chips/parts
