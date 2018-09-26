@@ -1,18 +1,30 @@
 <!--lint disable list-item-indent-->
 
 # BreadBoardBox
-a 3D / 2D Lasercutter friendly Box-Design for two Breadboards
+a 3D designed / 2D Lasercutter friendly Box-Design for one up to three Breadboards
 
 ![3d preview](BreadBoardBox.png)
+![finished box](picture/P1660792_small.jpg)
+![detail clamp](picture/P1660795_small.jpg)
+![detail connectors](picture/P1660798_small.jpg)
 full step file: [BreadBoardBox.step](BreadBoardBox.step)
 
+all sides are build from two 4mm wood sheets - so wall-thickness is 8mm.
+with this its possible that all screw-heads are hidden in the thickness of the outer sheet.
+
+
+the 3d model is designed in FreeCAD.  
+the file is partly 'automated'
 
 ## Breadboard measurements:
-- Power-IC-Power
+PR = Power-Rail  
+IC = section for chips/parts
+
+- PR-IC-PR
     54mm
-- Power-IC-Power-IC-Power
+- PR-IC-PR-IC-PR
     99,5mm
-- Power-IC-Power-IC-Power-IC-Power
+- PR-IC-PR-IC-PR-IC-PR
     144mm
 
 165mm length
